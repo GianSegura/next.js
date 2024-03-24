@@ -1,6 +1,10 @@
+import Heading from "@/components/Heading";
+
 export default function HomePage() {
-    console.log('HomePage Log')
-    return (
-        <h1>My first Next.jss page</h1>
-    )
+  return (
+    <>
+      <Heading>Home Page</Heading>
+      <p>Only the best description</p>
+    </>
+  );
 }

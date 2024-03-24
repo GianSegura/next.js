@@ -1,5 +1,5 @@
+import Heading from "@/components/Heading";
+
 export default function AboutPage() {
-    return (
-        <h1>AboiutPage</h1>
-    )
+  return <Heading>About Page</Heading>;
 }
