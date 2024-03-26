@@ -1,7 +1,6 @@
 import Heading from "@/components/Heading";
 
 export default function HollowKnightPage() {
-    console.log('No Carga el SRC');
   return (
     <>
       <Heading>HollowKnight Page</Heading>
